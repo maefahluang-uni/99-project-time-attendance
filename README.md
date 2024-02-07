@@ -1,7 +1,10 @@
-# Project -title
-explain your project here
+# Time Attendance
+Our group create web aplication that connect with Line OA for being a timestamp machine for collect check in check out data and admin can see data and summarize of data.
 ## Members
-list out your member ID and name.
+6431503003 Kittithat Sritan <br />
+6431503019 Natcharapapon Kaewno <br />
+6431503038 Pongsakorn Tongsungnern <br />
+6431503054 Wasan Saenkat <br />
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
