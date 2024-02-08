@@ -1,5 +1,5 @@
 # Time Attendance
-Our group create web aplication that connect with Line OA for being a timestamp machine for collect check in check out data and admin can see data and summarize of data.
+Our group create web aplication that connect with Line OA for being a fingerprint scanner for collect check in check out data and admin can see data and summarize of data.
 ## Members
 6431503003 Kittithat Sritan <br />
 6431503019 Natcharapapon Kaewno <br />
