@@ -11,4 +11,14 @@ You need to create skeleton of your project's development. It does not necessary
 - Edit readme file that briefly explains your project and details of members.​ 
 - Create folder structure and some source code to prepare for development
 - Decide what features to roll out and who is responsible for it.​ Create branches for each feature. Explain each feature in Readme file in their own branch​ 
-- Create Docker file for your deployment of your application 
+- Create Docker file for your deployment of your application
+
+## Rosponsibility
+Admin UI
+
+## Feature
+accept or reject officer registration <br />
+see daily attendance and absence<br />
+see overall worktime of officer<br />
+set officer schedule<br />
+set office location
