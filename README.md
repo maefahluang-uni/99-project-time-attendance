@@ -12,3 +12,14 @@ You need to create skeleton of your project's development. It does not necessary
 - Create folder structure and some source code to prepare for development
 - Decide what features to roll out and who is responsible for it.​ Create branches for each feature. Explain each feature in Readme file in their own branch​ 
 - Create Docker file for your deployment of your application 
+
+## Rosponsibility
+Backend
+
+## Feature
+My work is do everything about backend<br />
+1.find the database that compatible with project<br />
+2.Create Erdiagram for watch dataflow and plan how to store data<br />
+3.Create api to link to database<br />
+4.Secure privacy data of user<br />
+5.protect source code from annonymous or Malicious person
