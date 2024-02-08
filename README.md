@@ -12,3 +12,17 @@ You need to create skeleton of your project's development. It does not necessary
 - Create folder structure and some source code to prepare for development
 - Decide what features to roll out and who is responsible for it.​ Create branches for each feature. Explain each feature in Readme file in their own branch​ 
 - Create Docker file for your deployment of your application 
+
+Rosponsibility
+officer UI,webapplication&line officail account menu
+
+Feature
+check in check out time stamp protrait current location <br />
+can add to do list in to do list function<br />
+show holiday and event table<br />
+show user schedule on calendar<br />
+set home location to check in<br />
+login to webapplication officer<br />
+show summarize data work time on dashboard user interface<br />
+show history officer login and watch detail login<br />
+profile user
