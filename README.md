@@ -18,4 +18,5 @@ Manager UI, Document creator, Supporter
 
 ## Feature
 My job is to do everything related to documents.<br />
-Support teams where they need help and create manager UI<br />
+Support teams where they need help.<br />
+Create manager UI.<br />
